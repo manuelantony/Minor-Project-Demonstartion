@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "571164158265",
+    "firebase_url": "https://miniproject-cb7e0.firebaseio.com",
+    "project_id": "miniproject-cb7e0",
+    "storage_bucket": "miniproject-cb7e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571164158265:android:3ec828db16518399",
+        "android_client_info": {
+          "package_name": "com.example.j0nee.mini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571164158265-8nqr9ufd8c2jitg9m01e4np2acp9tr15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9j1B1zyGvdiB8iAX7u48Eybs1Idf0OM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
